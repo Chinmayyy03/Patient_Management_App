@@ -22,7 +22,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.PatientManagementApp"
+        android:theme="@style/Theme.PatientManagement"
         android:usesCleartextTraffic="false"
         tools:targetApi="31">
 
@@ -30,7 +30,7 @@
         <activity
             android:name=".activities.SplashActivity"
             android:exported="true"
-            android:theme="@style/Theme.PatientManagementApp.Splash">
+            android:theme="@style/Theme.PatientManagement.Splash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -41,7 +41,7 @@
         <activity
             android:name=".activities.LoginActivity"
             android:exported="false"
-            android:theme="@style/Theme.PatientManagementApp"
+            android:theme="@style/Theme.PatientManagement"
             android:windowSoftInputMode="adjustResize" />
 
         <!-- Register Activity -->
