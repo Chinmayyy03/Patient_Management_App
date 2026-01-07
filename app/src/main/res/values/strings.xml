@@ -1,0 +1,117 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Patient Management</string>
+
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="dont_have_account">Don\'t have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="patients">Patients</string>
+    <string name="appointments">Appointments</string>
+    <string name="profile">Profile</string>
+    <string name="settings">Settings</string>
+
+    <!-- Dashboard -->
+    <string name="welcome">Welcome</string>
+    <string name="today_appointments">Today\'s Appointments</string>
+    <string name="total_patients">Total Patients</string>
+    <string name="recent_patients">Recent Patients</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="add_patient">Add Patient</string>
+    <string name="new_appointment">New Appointment</string>
+    <string name="view_all">View All</string>
+
+    <!-- Patient -->
+    <string name="patient_id">Patient ID</string>
+    <string name="patient_name">Patient Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="phone">Phone Number</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="address">Address</string>
+
+    <!-- Appointment -->
+    <string name="appointment_id">Appointment ID</string>
+    <string name="appointment_date">Appointment Date</string>
+    <string name="appointment_time">Appointment Time</string>
+    <string name="reason">Reason</string>
+    <string name="status">Status</string>
+    <string name="scheduled">Scheduled</string>
+    <string name="completed">Completed</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="notes">Notes</string>
+
+    <!-- Medical Records -->
+    <string name="visit_date">Visit Date</string>
+    <string name="symptoms">Symptoms</string>
+    <string name="diagnosis">Diagnosis</string>
+    <string name="prescriptions">Prescriptions</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="dosage">Dosage</string>
+    <string name="frequency">Frequency</string>
+    <string name="duration">Duration</string>
+    <string name="lab_tests">Lab Tests</string>
+    <string name="next_visit">Next Visit</string>
+    <string name="medical_history">Medical History</string>
+
+    <!-- Actions -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="export">Export</string>
+    <string name="share">Share</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+
+    <!-- Messages -->
+    <string name="loading">Loading…</string>
+    <string name="no_data">No data available</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="success">Success</string>
+    <string name="failed">Failed</string>
+    <string name="confirm_delete">Are you sure you want to delete?</string>
+    <string name="delete_confirmation">This action cannot be undone</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <!-- Validation Messages -->
+    <string name="field_required">This field is required</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="password_too_short">Password must be at least 6 characters</string>
+    <string name="passwords_dont_match">Passwords don\'t match</string>
+    <string name="invalid_phone">Invalid phone number</string>
+
+    <!-- Profile -->
+    <string name="change_profile_picture">Change Profile Picture</string>
+    <string name="change_password">Change Password</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="about">About</string>
+
+    <!-- Settings -->
+    <string name="notifications">Notifications</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="backup_restore">Backup &amp; Restore</string>
+    <string name="language">Language</string>
+    <string name="version">Version</string>
+</resources>

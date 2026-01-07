@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "839159723434",
+    "project_id": "patient-management-syste-f2244",
+    "storage_bucket": "patient-management-syste-f2244.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839159723434:android:6ec701a17c5542f54de7d3",
+        "android_client_info": {
+          "package_name": "com.example.patientmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmFv5bxIRW0OEGnFiOaMvg7HIVeFOFVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
